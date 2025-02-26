@@ -1,0 +1,17 @@
+matplotlib 
+pandas 
+openpyxl 
+tabulate 
+langchain_experimental
+langchain_google_genai
+seaborn
+scipy
+joblib
+textblob
+streamlit
+opencv-python
+scikit-learn
+numpy
+scikit-image
+arxiv
+ 
